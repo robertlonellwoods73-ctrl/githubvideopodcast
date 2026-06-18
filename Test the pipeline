@@ -1,0 +1,4 @@
+python fetch_repo.py
+python generate_voice.py
+python generate_subtitles.py
+python generate_video.py
