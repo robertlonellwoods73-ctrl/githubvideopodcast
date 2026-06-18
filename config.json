@@ -1,5 +1,6 @@
-"https://github.com/robertlionelwoods73-ctrl/githubvideopodcast"
-  "voice": "en_US-ryan-high",
+{
+  "repo_url": "https://github.com/robertlonellwoods73-ctrl/githubvideopodcast",
+  "voice": "en_US-amy-medium.onnx",
   "background": "background.png",
   "font": "Arial",
   "video_width": 1080,
