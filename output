@@ -1,0 +1,4 @@
+output/.gitkeep# 
+This file ensures the output/ folder is tracked by Git.
+# All generated files (script.txt, voice.wav, subtitles.srt, final.mp4)
+# will appear here after running the pipeline.
